@@ -70,7 +70,7 @@ python plot.py                                    # -> results/curves.png, ablat
 python make_demo.py                               # -> docs/*.gif, *.mp4 (MUJOCO_GL=egl, needs ffmpeg)
 ```
 
-Versions used: torch 2.11.0 (CPU), gymnasium 1.3.0, mujoco 3.17.0, stable-baselines3 2.9.0, numpy 2.3.5, Python 3.12. Training used one CPU thread per process (tiny networks; a 4-thread test was not faster, and I did not time it in detail). Runs are seeded but I have not checked bit-for-bit reproducibility across machines.
+Versions used: torch 2.11.0 (CPU), gymnasium 1.3.0, mujoco 3.17.0, stable-baselines3 2.9.0, numpy 2.3.5, Python 3.12. Training used one CPU thread per process (tiny networks, so I expected little gain from more threads; I did not benchmark 4 threads). Runs are seeded but I have not checked bit-for-bit reproducibility across machines.
 
 ## Files
 
