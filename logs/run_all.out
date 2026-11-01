@@ -1,0 +1,463 @@
+Hopper-v5 s0 step 2048 ret20 11.6 sps 3372
+Hopper-v5 s0 step 43008 ret20 433.0 sps 3317
+Hopper-v5 s0 step 83968 ret20 918.2 sps 3216
+Hopper-v5 s0 step 124928 ret20 1241.0 sps 3247
+Hopper-v5 s0 step 165888 ret20 1451.8 sps 3224
+Hopper-v5 s0 step 206848 ret20 1786.7 sps 3215
+Hopper-v5 s0 step 247808 ret20 1682.7 sps 3193
+Hopper-v5 s0 step 288768 ret20 1894.0 sps 3161
+Hopper-v5 s0 step 329728 ret20 1537.2 sps 3135
+Hopper-v5 s0 step 370688 ret20 1733.9 sps 3091
+Hopper-v5 s0 step 411648 ret20 1971.1 sps 3090
+Hopper-v5 s0 step 452608 ret20 2645.4 sps 3115
+Hopper-v5 s0 step 493568 ret20 2619.1 sps 3125
+Hopper-v5 s0 step 534528 ret20 2342.4 sps 3135
+Hopper-v5 s0 step 575488 ret20 2439.0 sps 3141
+Hopper-v5 s0 step 616448 ret20 3037.4 sps 3142
+Hopper-v5 s0 step 657408 ret20 2772.9 sps 3151
+Hopper-v5 s0 step 698368 ret20 2759.0 sps 3159
+Hopper-v5 s0 step 739328 ret20 2375.9 sps 3159
+Hopper-v5 s0 step 780288 ret20 3044.1 sps 3160
+Hopper-v5 s0 step 821248 ret20 2501.8 sps 3161
+Hopper-v5 s0 step 862208 ret20 2350.9 sps 3163
+Hopper-v5 s0 step 903168 ret20 2176.4 sps 3163
+Hopper-v5 s0 step 944128 ret20 2790.5 sps 3166
+Hopper-v5 s0 step 985088 ret20 2900.5 sps 3170
+Hopper-v5 s0 step 999424 ret20 2770.4 sps 3172
+done Hopper-v5_ours_s0 wall 315s
+done Hopper-v5_sb3_s0 wall 320s
+Hopper-v5 s1 step 2048 ret20 9.7 sps 2648
+Hopper-v5 s1 step 43008 ret20 360.1 sps 2933
+Hopper-v5 s1 step 83968 ret20 534.8 sps 2933
+Hopper-v5 s1 step 124928 ret20 1085.1 sps 2954
+Hopper-v5 s1 step 165888 ret20 1285.4 sps 2836
+Hopper-v5 s1 step 206848 ret20 1477.7 sps 2898
+Hopper-v5 s1 step 247808 ret20 1803.2 sps 2979
+Hopper-v5 s1 step 288768 ret20 2479.8 sps 3038
+Hopper-v5 s1 step 329728 ret20 2942.9 sps 3089
+Hopper-v5 s1 step 370688 ret20 2835.4 sps 3138
+Hopper-v5 s1 step 411648 ret20 2823.5 sps 3178
+Hopper-v5 s1 step 452608 ret20 2602.1 sps 3201
+Hopper-v5 s1 step 493568 ret20 2579.3 sps 3192
+Hopper-v5 s1 step 534528 ret20 2885.1 sps 3177
+Hopper-v5 s1 step 575488 ret20 2731.0 sps 3171
+Hopper-v5 s1 step 616448 ret20 2966.7 sps 3149
+Hopper-v5 s1 step 657408 ret20 2308.1 sps 3133
+Hopper-v5 s1 step 698368 ret20 2273.6 sps 3118
+Hopper-v5 s1 step 739328 ret20 2582.7 sps 3137
+Hopper-v5 s1 step 780288 ret20 2970.3 sps 3152
+Hopper-v5 s1 step 821248 ret20 2782.4 sps 3165
+Hopper-v5 s1 step 862208 ret20 2843.2 sps 3175
+Hopper-v5 s1 step 903168 ret20 2737.2 sps 3187
+Hopper-v5 s1 step 944128 ret20 3015.4 sps 3192
+Hopper-v5 s1 step 985088 ret20 3014.4 sps 3192
+Hopper-v5 s1 step 999424 ret20 3062.6 sps 3194
+done Hopper-v5_ours_s1 wall 313s
+done Hopper-v5_sb3_s1 wall 324s
+Hopper-v5 s2 step 2048 ret20 16.7 sps 2695
+Hopper-v5 s2 step 43008 ret20 382.0 sps 3060
+Hopper-v5 s2 step 83968 ret20 887.4 sps 3009
+Hopper-v5 s2 step 124928 ret20 1532.2 sps 2990
+Hopper-v5 s2 step 165888 ret20 2037.7 sps 3054
+Hopper-v5 s2 step 206848 ret20 2200.0 sps 3101
+Hopper-v5 s2 step 247808 ret20 2610.6 sps 3144
+Hopper-v5 s2 step 288768 ret20 2309.9 sps 3145
+Hopper-v5 s2 step 329728 ret20 2688.6 sps 3163
+Hopper-v5 s2 step 370688 ret20 2867.3 sps 3159
+Hopper-v5 s2 step 411648 ret20 2980.9 sps 3163
+Hopper-v5 s2 step 452608 ret20 2955.9 sps 3157
+Hopper-v5 s2 step 493568 ret20 2415.7 sps 3169
+Hopper-v5 s2 step 534528 ret20 2446.8 sps 3168
+Hopper-v5 s2 step 575488 ret20 2720.0 sps 3154
+Hopper-v5 s2 step 616448 ret20 2689.8 sps 3157
+Hopper-v5 s2 step 657408 ret20 2598.3 sps 3162
+Hopper-v5 s2 step 698368 ret20 2305.9 sps 3175
+Hopper-v5 s2 step 739328 ret20 2374.5 sps 3182
+Hopper-v5 s2 step 780288 ret20 2792.3 sps 3182
+Hopper-v5 s2 step 821248 ret20 2596.4 sps 3174
+Hopper-v5 s2 step 862208 ret20 2598.3 sps 3181
+Hopper-v5 s2 step 903168 ret20 2706.7 sps 3187
+Hopper-v5 s2 step 944128 ret20 2410.5 sps 3193
+Hopper-v5 s2 step 985088 ret20 2860.5 sps 3198
+Hopper-v5 s2 step 999424 ret20 2650.0 sps 3198
+done Hopper-v5_ours_s2 wall 313s
+done Hopper-v5_sb3_s2 wall 307s
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+HalfCheetah-v5 s0 step 2048 ret20 nan sps 3516
+HalfCheetah-v5 s0 step 43008 ret20 -211.0 sps 3905
+HalfCheetah-v5 s0 step 83968 ret20 123.7 sps 3837
+HalfCheetah-v5 s0 step 124928 ret20 530.7 sps 3946
+HalfCheetah-v5 s0 step 165888 ret20 786.5 sps 3901
+HalfCheetah-v5 s0 step 206848 ret20 907.7 sps 3871
+HalfCheetah-v5 s0 step 247808 ret20 1056.4 sps 3842
+HalfCheetah-v5 s0 step 288768 ret20 1140.7 sps 3829
+HalfCheetah-v5 s0 step 329728 ret20 1231.4 sps 3820
+HalfCheetah-v5 s0 step 370688 ret20 1342.3 sps 3821
+HalfCheetah-v5 s0 step 411648 ret20 1376.0 sps 3817
+HalfCheetah-v5 s0 step 452608 ret20 1409.3 sps 3796
+HalfCheetah-v5 s0 step 493568 ret20 1198.5 sps 3776
+HalfCheetah-v5 s0 step 534528 ret20 1488.6 sps 3778
+HalfCheetah-v5 s0 step 575488 ret20 1525.9 sps 3784
+HalfCheetah-v5 s0 step 616448 ret20 1550.2 sps 3781
+HalfCheetah-v5 s0 step 657408 ret20 1562.5 sps 3792
+HalfCheetah-v5 s0 step 698368 ret20 1577.6 sps 3793
+HalfCheetah-v5 s0 step 739328 ret20 1613.1 sps 3795
+HalfCheetah-v5 s0 step 780288 ret20 1529.1 sps 3785
+HalfCheetah-v5 s0 step 821248 ret20 1640.8 sps 3785
+HalfCheetah-v5 s0 step 862208 ret20 1629.9 sps 3778
+HalfCheetah-v5 s0 step 903168 ret20 1455.9 sps 3780
+HalfCheetah-v5 s0 step 944128 ret20 1662.0 sps 3775
+HalfCheetah-v5 s0 step 985088 ret20 1650.9 sps 3772
+HalfCheetah-v5 s0 step 999424 ret20 1656.5 sps 3772
+done HalfCheetah-v5_ours_s0 wall 265s
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+done HalfCheetah-v5_sb3_s0 wall 324s
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+HalfCheetah-v5 s1 step 2048 ret20 nan sps 2977
+HalfCheetah-v5 s1 step 43008 ret20 -196.7 sps 3194
+HalfCheetah-v5 s1 step 83968 ret20 82.1 sps 3152
+HalfCheetah-v5 s1 step 124928 ret20 347.2 sps 3167
+HalfCheetah-v5 s1 step 165888 ret20 795.8 sps 3195
+HalfCheetah-v5 s1 step 206848 ret20 1479.9 sps 3179
+HalfCheetah-v5 s1 step 247808 ret20 2066.7 sps 3166
+HalfCheetah-v5 s1 step 288768 ret20 2584.7 sps 3138
+HalfCheetah-v5 s1 step 329728 ret20 2913.9 sps 3165
+HalfCheetah-v5 s1 step 370688 ret20 2998.7 sps 3185
+HalfCheetah-v5 s1 step 411648 ret20 3178.9 sps 3208
+HalfCheetah-v5 s1 step 452608 ret20 3131.4 sps 3208
+HalfCheetah-v5 s1 step 493568 ret20 3302.3 sps 3218
+HalfCheetah-v5 s1 step 534528 ret20 3828.6 sps 3229
+HalfCheetah-v5 s1 step 575488 ret20 3835.7 sps 3242
+HalfCheetah-v5 s1 step 616448 ret20 3765.8 sps 3244
+HalfCheetah-v5 s1 step 657408 ret20 4057.5 sps 3252
+HalfCheetah-v5 s1 step 698368 ret20 3737.5 sps 3267
+HalfCheetah-v5 s1 step 739328 ret20 4180.8 sps 3276
+HalfCheetah-v5 s1 step 780288 ret20 4377.8 sps 3282
+HalfCheetah-v5 s1 step 821248 ret20 4034.0 sps 3282
+HalfCheetah-v5 s1 step 862208 ret20 4239.2 sps 3275
+HalfCheetah-v5 s1 step 903168 ret20 4061.7 sps 3277
+HalfCheetah-v5 s1 step 944128 ret20 4184.2 sps 3275
+HalfCheetah-v5 s1 step 985088 ret20 4383.3 sps 3274
+HalfCheetah-v5 s1 step 999424 ret20 4328.2 sps 3273
+done HalfCheetah-v5_ours_s1 wall 305s
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+done HalfCheetah-v5_sb3_s1 wall 315s
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+HalfCheetah-v5 s2 step 2048 ret20 nan sps 2869
+HalfCheetah-v5 s2 step 43008 ret20 -249.0 sps 3203
+HalfCheetah-v5 s2 step 83968 ret20 120.9 sps 3231
+HalfCheetah-v5 s2 step 124928 ret20 508.9 sps 3214
+HalfCheetah-v5 s2 step 165888 ret20 866.6 sps 3235
+HalfCheetah-v5 s2 step 206848 ret20 1041.3 sps 3249
+HalfCheetah-v5 s2 step 247808 ret20 1172.8 sps 3270
+HalfCheetah-v5 s2 step 288768 ret20 1282.2 sps 3284
+HalfCheetah-v5 s2 step 329728 ret20 1376.2 sps 3267
+HalfCheetah-v5 s2 step 370688 ret20 1439.8 sps 3273
+HalfCheetah-v5 s2 step 411648 ret20 1467.1 sps 3259
+HalfCheetah-v5 s2 step 452608 ret20 1489.2 sps 3257
+HalfCheetah-v5 s2 step 493568 ret20 1512.4 sps 3245
+HalfCheetah-v5 s2 step 534528 ret20 1535.6 sps 3248
+HalfCheetah-v5 s2 step 575488 ret20 1564.8 sps 3243
+HalfCheetah-v5 s2 step 616448 ret20 1589.5 sps 3242
+HalfCheetah-v5 s2 step 657408 ret20 1626.7 sps 3248
+HalfCheetah-v5 s2 step 698368 ret20 1662.6 sps 3244
+HalfCheetah-v5 s2 step 739328 ret20 1731.4 sps 3239
+HalfCheetah-v5 s2 step 780288 ret20 1912.0 sps 3242
+HalfCheetah-v5 s2 step 821248 ret20 2078.7 sps 3244
+HalfCheetah-v5 s2 step 862208 ret20 2086.1 sps 3247
+HalfCheetah-v5 s2 step 903168 ret20 2088.3 sps 3246
+HalfCheetah-v5 s2 step 944128 ret20 2029.1 sps 3247
+HalfCheetah-v5 s2 step 985088 ret20 2061.1 sps 3247
+HalfCheetah-v5 s2 step 999424 ret20 2053.0 sps 3249
+done HalfCheetah-v5_ours_s2 wall 308s
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+WARNING: compiler attribute 'settotalmass' is deprecated and will be removed in a future release: scale the masses and densities in the model, or call mj_setTotalmass and mj_setConst on the compiled model
+
+done HalfCheetah-v5_sb3_s2 wall 318s
+Walker2d-v5 s0 step 2048 ret20 -2.2 sps 2362
+Walker2d-v5 s0 step 43008 ret20 334.8 sps 2704
+Walker2d-v5 s0 step 83968 ret20 369.8 sps 2723
+Walker2d-v5 s0 step 124928 ret20 493.9 sps 2731
+Walker2d-v5 s0 step 165888 ret20 759.4 sps 2707
+Walker2d-v5 s0 step 206848 ret20 1273.9 sps 2706
+Walker2d-v5 s0 step 247808 ret20 1147.8 sps 2712
+Walker2d-v5 s0 step 288768 ret20 1212.0 sps 2716
+Walker2d-v5 s0 step 329728 ret20 1478.5 sps 2712
+Walker2d-v5 s0 step 370688 ret20 1390.7 sps 2727
+Walker2d-v5 s0 step 411648 ret20 1472.6 sps 2727
+Walker2d-v5 s0 step 452608 ret20 1967.3 sps 2730
+Walker2d-v5 s0 step 493568 ret20 1499.9 sps 2730
+Walker2d-v5 s0 step 534528 ret20 2072.6 sps 2720
+Walker2d-v5 s0 step 575488 ret20 1255.3 sps 2723
+Walker2d-v5 s0 step 616448 ret20 2258.8 sps 2724
+Walker2d-v5 s0 step 657408 ret20 1745.1 sps 2730
+Walker2d-v5 s0 step 698368 ret20 1868.8 sps 2724
+Walker2d-v5 s0 step 739328 ret20 2268.5 sps 2720
+Walker2d-v5 s0 step 780288 ret20 2486.1 sps 2720
+Walker2d-v5 s0 step 821248 ret20 2730.5 sps 2723
+Walker2d-v5 s0 step 862208 ret20 2645.4 sps 2721
+Walker2d-v5 s0 step 903168 ret20 2328.1 sps 2726
+Walker2d-v5 s0 step 944128 ret20 3204.3 sps 2726
+Walker2d-v5 s0 step 985088 ret20 2799.0 sps 2727
+Walker2d-v5 s0 step 999424 ret20 3063.6 sps 2725
+done Walker2d-v5_ours_s0 wall 367s
+done Walker2d-v5_sb3_s0 wall 349s
+Walker2d-v5 s1 step 2048 ret20 -1.4 sps 2430
+Walker2d-v5 s1 step 43008 ret20 354.1 sps 3025
+Walker2d-v5 s1 step 83968 ret20 357.9 sps 3043
+Walker2d-v5 s1 step 124928 ret20 385.6 sps 3025
+Walker2d-v5 s1 step 165888 ret20 485.3 sps 3004
+Walker2d-v5 s1 step 206848 ret20 678.5 sps 3025
+Walker2d-v5 s1 step 247808 ret20 726.8 sps 3036
+Walker2d-v5 s1 step 288768 ret20 975.8 sps 3052
+Walker2d-v5 s1 step 329728 ret20 1179.2 sps 3044
+Walker2d-v5 s1 step 370688 ret20 1356.5 sps 3035
+Walker2d-v5 s1 step 411648 ret20 1386.9 sps 3019
+Walker2d-v5 s1 step 452608 ret20 1839.6 sps 3031
+Walker2d-v5 s1 step 493568 ret20 2101.3 sps 3035
+Walker2d-v5 s1 step 534528 ret20 2383.9 sps 3042
+Walker2d-v5 s1 step 575488 ret20 2453.8 sps 3042
+Walker2d-v5 s1 step 616448 ret20 2824.4 sps 3039
+Walker2d-v5 s1 step 657408 ret20 2496.1 sps 3041
+Walker2d-v5 s1 step 698368 ret20 2092.8 sps 3029
+Walker2d-v5 s1 step 739328 ret20 2360.5 sps 3032
+Walker2d-v5 s1 step 780288 ret20 2762.1 sps 3023
+Walker2d-v5 s1 step 821248 ret20 3115.0 sps 3019
+Walker2d-v5 s1 step 862208 ret20 2662.8 sps 3019
+Walker2d-v5 s1 step 903168 ret20 2042.2 sps 3020
+Walker2d-v5 s1 step 944128 ret20 2838.8 sps 3019
+Walker2d-v5 s1 step 985088 ret20 2499.2 sps 3016
+Walker2d-v5 s1 step 999424 ret20 2426.3 sps 3014
+done Walker2d-v5_ours_s1 wall 332s
+done Walker2d-v5_sb3_s1 wall 340s
+Walker2d-v5 s2 step 2048 ret20 1.2 sps 2879
+Walker2d-v5 s2 step 43008 ret20 362.7 sps 3059
+Walker2d-v5 s2 step 83968 ret20 355.3 sps 2995
+Walker2d-v5 s2 step 124928 ret20 409.9 sps 3026
+Walker2d-v5 s2 step 165888 ret20 413.5 sps 3018
+Walker2d-v5 s2 step 206848 ret20 512.9 sps 2996
+Walker2d-v5 s2 step 247808 ret20 685.9 sps 2993
+Walker2d-v5 s2 step 288768 ret20 795.8 sps 3022
+Walker2d-v5 s2 step 329728 ret20 960.1 sps 3032
+Walker2d-v5 s2 step 370688 ret20 1171.9 sps 3020
+Walker2d-v5 s2 step 411648 ret20 1470.2 sps 3026
+Walker2d-v5 s2 step 452608 ret20 1782.3 sps 3029
+Walker2d-v5 s2 step 493568 ret20 2000.3 sps 3017
+Walker2d-v5 s2 step 534528 ret20 2493.1 sps 3026
+Walker2d-v5 s2 step 575488 ret20 2819.7 sps 3032
+Walker2d-v5 s2 step 616448 ret20 2462.9 sps 3035
+Walker2d-v5 s2 step 657408 ret20 2811.1 sps 3018
+Walker2d-v5 s2 step 698368 ret20 2698.6 sps 3014
+Walker2d-v5 s2 step 739328 ret20 3165.9 sps 3017
+Walker2d-v5 s2 step 780288 ret20 2745.1 sps 3018
+Walker2d-v5 s2 step 821248 ret20 3710.7 sps 3021
+Walker2d-v5 s2 step 862208 ret20 2725.6 sps 3020
+Walker2d-v5 s2 step 903168 ret20 2888.8 sps 3019
+Walker2d-v5 s2 step 944128 ret20 2839.4 sps 3021
+Walker2d-v5 s2 step 985088 ret20 3048.1 sps 3024
+Walker2d-v5 s2 step 999424 ret20 2319.5 sps 3022
+done Walker2d-v5_ours_s2 wall 331s
+done Walker2d-v5_sb3_s2 wall 342s
+Hopper-v5 s0 step 2048 ret20 11.2 sps 2903
+Hopper-v5 s0 step 43008 ret20 324.0 sps 3210
+Hopper-v5 s0 step 83968 ret20 593.1 sps 3199
+Hopper-v5 s0 step 124928 ret20 854.2 sps 3167
+Hopper-v5 s0 step 165888 ret20 1166.6 sps 3237
+Hopper-v5 s0 step 206848 ret20 1074.5 sps 3186
+Hopper-v5 s0 step 247808 ret20 1295.4 sps 3187
+Hopper-v5 s0 step 288768 ret20 1209.3 sps 3180
+Hopper-v5 s0 step 329728 ret20 1467.2 sps 3197
+Hopper-v5 s0 step 370688 ret20 1402.8 sps 3207
+Hopper-v5 s0 step 411648 ret20 1347.6 sps 3206
+Hopper-v5 s0 step 452608 ret20 1462.1 sps 3220
+Hopper-v5 s0 step 493568 ret20 1555.0 sps 3210
+Hopper-v5 s0 step 534528 ret20 1269.4 sps 3213
+Hopper-v5 s0 step 575488 ret20 1359.6 sps 3224
+Hopper-v5 s0 step 616448 ret20 1501.5 sps 3219
+Hopper-v5 s0 step 657408 ret20 1596.9 sps 3215
+Hopper-v5 s0 step 698368 ret20 1448.5 sps 3221
+Hopper-v5 s0 step 739328 ret20 1382.1 sps 3221
+Hopper-v5 s0 step 780288 ret20 1096.9 sps 3213
+Hopper-v5 s0 step 821248 ret20 1438.6 sps 3214
+Hopper-v5 s0 step 862208 ret20 1475.7 sps 3211
+Hopper-v5 s0 step 903168 ret20 1572.6 sps 3217
+Hopper-v5 s0 step 944128 ret20 1429.1 sps 3207
+Hopper-v5 s0 step 985088 ret20 1476.6 sps 3196
+Hopper-v5 s0 step 999424 ret20 1568.4 sps 3196
+done Hopper-v5_noobsnorm_s0 wall 313s
+Hopper-v5 s0 step 2048 ret20 11.6 sps 2589
+Hopper-v5 s0 step 43008 ret20 367.0 sps 2802
+Hopper-v5 s0 step 83968 ret20 743.9 sps 2963
+Hopper-v5 s0 step 124928 ret20 875.2 sps 3022
+Hopper-v5 s0 step 165888 ret20 1299.6 sps 2991
+Hopper-v5 s0 step 206848 ret20 1360.9 sps 3009
+Hopper-v5 s0 step 247808 ret20 1727.0 sps 3054
+Hopper-v5 s0 step 288768 ret20 1269.1 sps 3078
+Hopper-v5 s0 step 329728 ret20 1511.5 sps 3072
+Hopper-v5 s0 step 370688 ret20 1903.4 sps 3065
+Hopper-v5 s0 step 411648 ret20 1555.6 sps 3069
+Hopper-v5 s0 step 452608 ret20 2010.5 sps 3071
+Hopper-v5 s0 step 493568 ret20 2017.5 sps 3083
+Hopper-v5 s0 step 534528 ret20 2216.9 sps 3091
+Hopper-v5 s0 step 575488 ret20 2265.3 sps 3098
+Hopper-v5 s0 step 616448 ret20 1998.3 sps 3110
+Hopper-v5 s0 step 657408 ret20 1825.6 sps 3115
+Hopper-v5 s0 step 698368 ret20 1972.1 sps 3123
+Hopper-v5 s0 step 739328 ret20 1877.2 sps 3126
+Hopper-v5 s0 step 780288 ret20 2045.2 sps 3124
+Hopper-v5 s0 step 821248 ret20 2367.9 sps 3120
+Hopper-v5 s0 step 862208 ret20 1845.2 sps 3117
+Hopper-v5 s0 step 903168 ret20 1777.5 sps 3114
+Hopper-v5 s0 step 944128 ret20 1996.1 sps 3116
+Hopper-v5 s0 step 985088 ret20 2106.4 sps 3122
+Hopper-v5 s0 step 999424 ret20 2919.1 sps 3119
+done Hopper-v5_nogae_s0 wall 320s
+Hopper-v5 s1 step 2048 ret20 10.0 sps 2824
+Hopper-v5 s1 step 43008 ret20 327.6 sps 3156
+Hopper-v5 s1 step 83968 ret20 653.0 sps 3209
+Hopper-v5 s1 step 124928 ret20 886.8 sps 3221
+Hopper-v5 s1 step 165888 ret20 1240.0 sps 3204
+Hopper-v5 s1 step 206848 ret20 1327.0 sps 3225
+Hopper-v5 s1 step 247808 ret20 1126.1 sps 3227
+Hopper-v5 s1 step 288768 ret20 1759.8 sps 3236
+Hopper-v5 s1 step 329728 ret20 1372.3 sps 3231
+Hopper-v5 s1 step 370688 ret20 1919.2 sps 3233
+Hopper-v5 s1 step 411648 ret20 1323.1 sps 3230
+Hopper-v5 s1 step 452608 ret20 1634.7 sps 3216
+Hopper-v5 s1 step 493568 ret20 1516.2 sps 3224
+Hopper-v5 s1 step 534528 ret20 1708.7 sps 3219
+Hopper-v5 s1 step 575488 ret20 1637.8 sps 3214
+Hopper-v5 s1 step 616448 ret20 2329.8 sps 3213
+Hopper-v5 s1 step 657408 ret20 1839.7 sps 3211
+Hopper-v5 s1 step 698368 ret20 2353.0 sps 3203
+Hopper-v5 s1 step 739328 ret20 1938.5 sps 3214
+Hopper-v5 s1 step 780288 ret20 2110.7 sps 3211
+Hopper-v5 s1 step 821248 ret20 1886.1 sps 3213
+Hopper-v5 s1 step 862208 ret20 2211.2 sps 3216
+Hopper-v5 s1 step 903168 ret20 2549.2 sps 3208
+Hopper-v5 s1 step 944128 ret20 2437.0 sps 3204
+Hopper-v5 s1 step 985088 ret20 2351.5 sps 3211
+Hopper-v5 s1 step 999424 ret20 2233.8 sps 3213
+done Hopper-v5_noobsnorm_s1 wall 311s
+Hopper-v5 s1 step 2048 ret20 9.7 sps 2946
+Hopper-v5 s1 step 43008 ret20 320.3 sps 3215
+Hopper-v5 s1 step 83968 ret20 658.4 sps 3221
+Hopper-v5 s1 step 124928 ret20 844.0 sps 3242
+Hopper-v5 s1 step 165888 ret20 844.4 sps 3205
+Hopper-v5 s1 step 206848 ret20 886.0 sps 3194
+Hopper-v5 s1 step 247808 ret20 1046.3 sps 3207
+Hopper-v5 s1 step 288768 ret20 1489.7 sps 3217
+Hopper-v5 s1 step 329728 ret20 1864.5 sps 3196
+Hopper-v5 s1 step 370688 ret20 2210.2 sps 3197
+Hopper-v5 s1 step 411648 ret20 2184.2 sps 3199
+Hopper-v5 s1 step 452608 ret20 2242.8 sps 3184
+Hopper-v5 s1 step 493568 ret20 2336.6 sps 3177
+Hopper-v5 s1 step 534528 ret20 2774.0 sps 3157
+Hopper-v5 s1 step 575488 ret20 3169.7 sps 3140
+Hopper-v5 s1 step 616448 ret20 2855.6 sps 3122
+Hopper-v5 s1 step 657408 ret20 2208.0 sps 3120
+Hopper-v5 s1 step 698368 ret20 2292.5 sps 3124
+Hopper-v5 s1 step 739328 ret20 2472.2 sps 3130
+Hopper-v5 s1 step 780288 ret20 2683.3 sps 3129
+Hopper-v5 s1 step 821248 ret20 2532.5 sps 3129
+Hopper-v5 s1 step 862208 ret20 3003.8 sps 3127
+Hopper-v5 s1 step 903168 ret20 2624.4 sps 3130
+Hopper-v5 s1 step 944128 ret20 2291.2 sps 3136
+Hopper-v5 s1 step 985088 ret20 2413.5 sps 3135
+Hopper-v5 s1 step 999424 ret20 2481.4 sps 3135
+done Hopper-v5_nogae_s1 wall 319s
+Hopper-v5 s2 step 2048 ret20 11.8 sps 2756
+Hopper-v5 s2 step 43008 ret20 368.2 sps 3146
+Hopper-v5 s2 step 83968 ret20 872.6 sps 3201
+Hopper-v5 s2 step 124928 ret20 1292.7 sps 3126
+Hopper-v5 s2 step 165888 ret20 1122.7 sps 3126
+Hopper-v5 s2 step 206848 ret20 1736.3 sps 3120
+Hopper-v5 s2 step 247808 ret20 1781.3 sps 3148
+Hopper-v5 s2 step 288768 ret20 2343.3 sps 3166
+Hopper-v5 s2 step 329728 ret20 1905.7 sps 3171
+Hopper-v5 s2 step 370688 ret20 1861.6 sps 3170
+Hopper-v5 s2 step 411648 ret20 2643.5 sps 3173
+Hopper-v5 s2 step 452608 ret20 2085.3 sps 3172
+Hopper-v5 s2 step 493568 ret20 2276.6 sps 3183
+Hopper-v5 s2 step 534528 ret20 2150.3 sps 3188
+Hopper-v5 s2 step 575488 ret20 2469.7 sps 3190
+Hopper-v5 s2 step 616448 ret20 2630.8 sps 3190
+Hopper-v5 s2 step 657408 ret20 2234.0 sps 3198
+Hopper-v5 s2 step 698368 ret20 2578.8 sps 3192
+Hopper-v5 s2 step 739328 ret20 2381.4 sps 3199
+Hopper-v5 s2 step 780288 ret20 2260.4 sps 3202
+Hopper-v5 s2 step 821248 ret20 1834.9 sps 3202
+Hopper-v5 s2 step 862208 ret20 2475.5 sps 3199
+Hopper-v5 s2 step 903168 ret20 2823.4 sps 3197
+Hopper-v5 s2 step 944128 ret20 2031.7 sps 3195
+Hopper-v5 s2 step 985088 ret20 2254.8 sps 3195
+Hopper-v5 s2 step 999424 ret20 2708.7 sps 3192
+done Hopper-v5_noobsnorm_s2 wall 313s
+Hopper-v5 s2 step 2048 ret20 16.7 sps 3007
+Hopper-v5 s2 step 43008 ret20 333.7 sps 3088
+Hopper-v5 s2 step 83968 ret20 381.0 sps 3094
+Hopper-v5 s2 step 124928 ret20 426.7 sps 3078
+Hopper-v5 s2 step 165888 ret20 674.1 sps 3033
+Hopper-v5 s2 step 206848 ret20 871.9 sps 3049
+Hopper-v5 s2 step 247808 ret20 919.8 sps 3083
+Hopper-v5 s2 step 288768 ret20 968.4 sps 3085
+Hopper-v5 s2 step 329728 ret20 1082.3 sps 3082
+Hopper-v5 s2 step 370688 ret20 1264.8 sps 3092
+Hopper-v5 s2 step 411648 ret20 1778.3 sps 3105
+Hopper-v5 s2 step 452608 ret20 1472.9 sps 3110
+Hopper-v5 s2 step 493568 ret20 1890.9 sps 3108
+Hopper-v5 s2 step 534528 ret20 2068.1 sps 3115
+Hopper-v5 s2 step 575488 ret20 2367.5 sps 3106
+Hopper-v5 s2 step 616448 ret20 2190.5 sps 3119
+Hopper-v5 s2 step 657408 ret20 1755.6 sps 3113
+Hopper-v5 s2 step 698368 ret20 2273.5 sps 3111
+Hopper-v5 s2 step 739328 ret20 2107.7 sps 3107
+Hopper-v5 s2 step 780288 ret20 2350.8 sps 3110
+Hopper-v5 s2 step 821248 ret20 2096.5 sps 3120
+Hopper-v5 s2 step 862208 ret20 1762.7 sps 3123
+Hopper-v5 s2 step 903168 ret20 2460.1 sps 3128
+Hopper-v5 s2 step 944128 ret20 2840.6 sps 3125
+Hopper-v5 s2 step 985088 ret20 2109.4 sps 3116
+Hopper-v5 s2 step 999424 ret20 2298.8 sps 3120
+done Hopper-v5_nogae_s2 wall 320s
+ALLDONE
